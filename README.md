@@ -10,6 +10,8 @@
 
 https://www.richmandao.com/
 
+RichmanDAO部署在Polygon马蹄链，请切换到Polygon用Matic投资。
+
 <a href="https://www.richmandao.com/" target="blank">
   <p align="center">
     <img src="logo.svg" width="180" alt="triangular-arbitrage2 Logo" />
