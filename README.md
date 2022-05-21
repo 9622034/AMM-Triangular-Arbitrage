@@ -4,13 +4,13 @@
 
 一部分资金会用于维护高昂的节点服务器，同时我们会把资金分散去各个DEX套利
 
-目前DAO成员每日获利5%～17%
+✅ 目前DAO成员每日获利5%～17%
 
-我们只收取2%的技术服务费
+✅ 我们只收取2%的技术服务费
 
 https://www.richmandao.com/
 
-RichmanDAO部署在Polygon马蹄链，请切换到Polygon用Matic投资。
+⚠️ RichmanDAO部署在Polygon马蹄链，请切换到Polygon用Matic投资。
 
 <a href="https://www.richmandao.com/" target="blank">
   <p align="center">
