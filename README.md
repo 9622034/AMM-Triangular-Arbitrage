@@ -10,7 +10,11 @@
 
 https://www.richmandao.com/
 
-
+<a href="https://www.richmandao.com/" target="blank">
+  <p align="center">
+    <img src="logo.svg" width="180" alt="triangular-arbitrage2 Logo" />
+  </p>
+</a>
 
 
 
